@@ -4,5 +4,6 @@ public class Hello {
     System.out.println("Дубль три. Старт 1");
     System.out.println("Потенциальная помеха фиче (ветке с ней)");
     System.out.println("Повторенье - мать ученья");
+    System.out.println("Boo");
   }
 }
