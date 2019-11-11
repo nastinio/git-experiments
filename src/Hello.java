@@ -5,5 +5,6 @@ public class Hello {
     System.out.println("Потенциальная помеха фиче (ветке с ней)");
     //System.out.println("Повторенье - мать ученья");
    // System.out.println("Boo");hg
+    Feature f = new Feature();
   }
 }
